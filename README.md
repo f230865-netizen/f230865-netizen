@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+## This is Muhammad Saad Fareed, a bachelors student studying CS.
+## This is my first time using GitHub, and i am learning about how this platform works.
+## I am looking forward to upload my projects soon which i completed in C++ and Python. 
+## I am currently studying App Development in Kotlin and will upload my work here as well. 
+## I recently made a small project about a browser extention which ensures user's security.
+## I am looking forward to work with companies and work in collaborative envorinment.
+## Fun Fact: I am excellent in communication and cooperating in team. 
 <!--
 **f230865-netizen/f230865-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
